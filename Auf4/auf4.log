@@ -1,0 +1,433 @@
+"15:49:14.673 [pool-3-thread-2] INFO org.parallel.auf4.Automate - New Customer 1337970060 has entered and is gold (false). 
+""15:49:14.677 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1337970060 is gold (false) has 4 baskets to empty and is using automate 90556647.
+""15:49:14.677 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1337970060 is emptying his or her basket for 5 seconds.
+""15:49:19.677 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1337970060 is gold (false) has 4 baskets to empty and is using automate 90556647.
+""15:49:19.678 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1337970060 is emptying his or her basket for 3 seconds.
+""15:49:21.632 [pool-3-thread-3] INFO org.parallel.auf4.Automate - New Customer 602240368 has entered and is gold (false). 
+""15:49:21.633 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 602240368 is gold (false) has 3 baskets to empty and is using automate 757239676.
+""15:49:21.634 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 602240368 is emptying his or her basket for 5 seconds.
+""15:49:22.679 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1337970060 is gold (false) has 4 baskets to empty and is using automate 90556647.
+""15:49:22.679 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1337970060 is emptying his or her basket for 5 seconds.
+""15:49:24.631 [pool-3-thread-4] INFO org.parallel.auf4.Automate - New Customer 279131622 has entered and is gold (true). 
+""15:49:24.631 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 279131622 is gold (true) has 2 baskets to empty and is using automate 509925762.
+""15:49:24.632 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 279131622 is emptying his or her basket for 5 seconds.
+""15:49:26.634 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 602240368 is gold (false) has 3 baskets to empty and is using automate 757239676.
+""15:49:26.635 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 602240368 is emptying his or her basket for 5 seconds.
+""15:49:27.679 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1337970060 is gold (false) has 4 baskets to empty and is using automate 90556647.
+""15:49:27.680 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1337970060 is emptying his or her basket for 5 seconds.
+""15:49:29.632 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 279131622 is gold (true) has 2 baskets to empty and is using automate 509925762.
+""15:49:29.633 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 279131622 is emptying his or her basket for 3 seconds.
+""15:49:31.635 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 602240368 is gold (false) has 3 baskets to empty and is using automate 757239676.
+""15:49:31.636 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 602240368 is emptying his or her basket for 3 seconds.
+""15:49:32.633 [pool-3-thread-4] INFO org.parallel.auf4.Automate - Customer 279131622 is leaving and s/he was gold (true). 
+""15:49:32.680 [pool-3-thread-2] INFO org.parallel.auf4.Automate - Customer 1337970060 is leaving and s/he was gold (false). 
+""15:49:34.637 [pool-3-thread-3] INFO org.parallel.auf4.Automate - Customer 602240368 is leaving and s/he was gold (false). 
+""15:49:39.635 [pool-3-thread-4] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 3
+""15:49:39.635 [pool-3-thread-4] INFO org.parallel.auf4.Automate - New Customer 442195606 has entered and is gold (true). 
+""15:49:39.636 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 442195606 is gold (true) has 5 baskets to empty and is using automate 509925762.
+""15:49:39.636 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 442195606 is emptying his or her basket for 3 seconds.
+""15:49:39.681 [pool-3-thread-2] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 2
+""15:49:39.681 [pool-3-thread-2] INFO org.parallel.auf4.Automate - New Customer 518615393 has entered and is gold (false). 
+""15:49:39.682 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 518615393 is gold (false) has 4 baskets to empty and is using automate 90556647.
+""15:49:39.682 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 518615393 is emptying his or her basket for 3 seconds.
+""15:49:41.637 [pool-3-thread-3] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 1
+""15:49:41.638 [pool-3-thread-3] INFO org.parallel.auf4.Automate - New Customer 689774080 has entered and is gold (false). 
+""15:49:41.638 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 689774080 is gold (false) has 2 baskets to empty and is using automate 757239676.
+""15:49:41.638 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 689774080 is emptying his or her basket for 6 seconds.
+""15:49:42.637 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 442195606 is gold (true) has 5 baskets to empty and is using automate 509925762.
+""15:49:42.637 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 442195606 is emptying his or her basket for 5 seconds.
+""15:49:42.682 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 518615393 is gold (false) has 4 baskets to empty and is using automate 90556647.
+""15:49:42.683 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 518615393 is emptying his or her basket for 5 seconds.
+""15:49:47.638 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 442195606 is gold (true) has 5 baskets to empty and is using automate 509925762.
+""15:49:47.638 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 442195606 is emptying his or her basket for 3 seconds.
+""15:49:47.639 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 689774080 is gold (false) has 2 baskets to empty and is using automate 757239676.
+""15:49:47.640 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 689774080 is emptying his or her basket for 3 seconds.
+""15:49:47.684 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 518615393 is gold (false) has 4 baskets to empty and is using automate 90556647.
+""15:49:47.684 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 518615393 is emptying his or her basket for 6 seconds.
+""15:49:50.639 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 442195606 is gold (true) has 5 baskets to empty and is using automate 509925762.
+""15:49:50.639 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 442195606 is emptying his or her basket for 4 seconds.
+""15:49:50.640 [pool-3-thread-3] INFO org.parallel.auf4.Automate - Customer 689774080 is leaving and s/he was gold (false). 
+""15:49:53.684 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 518615393 is gold (false) has 4 baskets to empty and is using automate 90556647.
+""15:49:53.685 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 518615393 is emptying his or her basket for 4 seconds.
+""15:49:54.640 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 442195606 is gold (true) has 5 baskets to empty and is using automate 509925762.
+""15:49:54.640 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 442195606 is emptying his or her basket for 6 seconds.
+""15:49:57.641 [pool-3-thread-3] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 5
+""15:49:57.642 [pool-3-thread-3] INFO org.parallel.auf4.Automate - New Customer 1814005063 has entered and is gold (true). 
+""15:49:57.643 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1814005063 is gold (true) has 4 baskets to empty and is using automate 757239676.
+""15:49:57.643 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1814005063 is emptying his or her basket for 4 seconds.
+""15:49:57.686 [pool-3-thread-2] INFO org.parallel.auf4.Automate - Customer 518615393 is leaving and s/he was gold (false). 
+""15:50:00.641 [pool-3-thread-4] INFO org.parallel.auf4.Automate - Customer 442195606 is leaving and s/he was gold (true). 
+""15:50:01.644 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1814005063 is gold (true) has 4 baskets to empty and is using automate 757239676.
+""15:50:01.644 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1814005063 is emptying his or her basket for 3 seconds.
+""15:50:04.645 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1814005063 is gold (true) has 4 baskets to empty and is using automate 757239676.
+""15:50:04.646 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1814005063 is emptying his or her basket for 3 seconds.
+""15:50:04.689 [pool-3-thread-2] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 6
+""15:50:04.689 [pool-3-thread-2] INFO org.parallel.auf4.Automate - New Customer 1754098923 has entered and is gold (true). 
+""15:50:04.690 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1754098923 is gold (true) has 5 baskets to empty and is using automate 90556647.
+""15:50:04.690 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1754098923 is emptying his or her basket for 3 seconds.
+""15:50:07.642 [pool-3-thread-4] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 5
+""15:50:07.643 [pool-3-thread-4] INFO org.parallel.auf4.Automate - New Customer 1599722425 has entered and is gold (true). 
+""15:50:07.643 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1599722425 is gold (true) has 5 baskets to empty and is using automate 509925762.
+""15:50:07.643 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1599722425 is emptying his or her basket for 3 seconds.
+""15:50:07.647 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1814005063 is gold (true) has 4 baskets to empty and is using automate 757239676.
+""15:50:07.648 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1814005063 is emptying his or her basket for 6 seconds.
+""15:50:07.691 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1754098923 is gold (true) has 5 baskets to empty and is using automate 90556647.
+""15:50:07.691 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1754098923 is emptying his or her basket for 3 seconds.
+""15:50:10.644 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1599722425 is gold (true) has 5 baskets to empty and is using automate 509925762.
+""15:50:10.644 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1599722425 is emptying his or her basket for 4 seconds.
+""15:50:10.692 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1754098923 is gold (true) has 5 baskets to empty and is using automate 90556647.
+""15:50:10.692 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1754098923 is emptying his or her basket for 3 seconds.
+""15:50:13.648 [pool-3-thread-3] INFO org.parallel.auf4.Automate - Customer 1814005063 is leaving and s/he was gold (true). 
+""15:50:13.692 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1754098923 is gold (true) has 5 baskets to empty and is using automate 90556647.
+""15:50:13.693 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1754098923 is emptying his or her basket for 5 seconds.
+""15:50:14.644 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1599722425 is gold (true) has 5 baskets to empty and is using automate 509925762.
+""15:50:14.645 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1599722425 is emptying his or her basket for 5 seconds.
+""15:50:18.694 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1754098923 is gold (true) has 5 baskets to empty and is using automate 90556647.
+""15:50:18.695 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1754098923 is emptying his or her basket for 4 seconds.
+""15:50:19.645 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1599722425 is gold (true) has 5 baskets to empty and is using automate 509925762.
+""15:50:19.646 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1599722425 is emptying his or her basket for 6 seconds.
+""15:50:20.649 [pool-3-thread-3] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 7
+""15:50:20.650 [pool-3-thread-3] INFO org.parallel.auf4.Automate - New Customer 1683563329 has entered and is gold (true). 
+""15:50:20.650 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1683563329 is gold (true) has 4 baskets to empty and is using automate 757239676.
+""15:50:20.650 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1683563329 is emptying his or her basket for 3 seconds.
+""15:50:22.696 [pool-3-thread-2] INFO org.parallel.auf4.Automate - Customer 1754098923 is leaving and s/he was gold (true). 
+""15:50:23.651 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1683563329 is gold (true) has 4 baskets to empty and is using automate 757239676.
+""15:50:23.651 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1683563329 is emptying his or her basket for 5 seconds.
+""15:50:25.646 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1599722425 is gold (true) has 5 baskets to empty and is using automate 509925762.
+""15:50:25.646 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1599722425 is emptying his or her basket for 4 seconds.
+""15:50:28.652 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1683563329 is gold (true) has 4 baskets to empty and is using automate 757239676.
+""15:50:28.655 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1683563329 is emptying his or her basket for 3 seconds.
+""15:50:29.647 [pool-3-thread-4] INFO org.parallel.auf4.Automate - Customer 1599722425 is leaving and s/he was gold (true). 
+""15:50:29.696 [pool-3-thread-2] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 8
+""15:50:29.697 [pool-3-thread-2] INFO org.parallel.auf4.Automate - New Customer 1233551188 has entered and is gold (true). 
+""15:50:29.697 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1233551188 is gold (true) has 2 baskets to empty and is using automate 90556647.
+""15:50:29.697 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1233551188 is emptying his or her basket for 3 seconds.
+""15:50:31.656 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1683563329 is gold (true) has 4 baskets to empty and is using automate 757239676.
+""15:50:31.657 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1683563329 is emptying his or her basket for 5 seconds.
+""15:50:32.698 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1233551188 is gold (true) has 2 baskets to empty and is using automate 90556647.
+""15:50:32.698 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1233551188 is emptying his or her basket for 6 seconds.
+""15:50:36.648 [pool-3-thread-4] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 9
+""15:50:36.648 [pool-3-thread-4] INFO org.parallel.auf4.Automate - New Customer 1457312177 has entered and is gold (true). 
+""15:50:36.648 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1457312177 is gold (true) has 2 baskets to empty and is using automate 509925762.
+""15:50:36.649 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1457312177 is emptying his or her basket for 3 seconds.
+""15:50:36.657 [pool-3-thread-3] INFO org.parallel.auf4.Automate - Customer 1683563329 is leaving and s/he was gold (true). 
+""15:50:38.698 [pool-3-thread-2] INFO org.parallel.auf4.Automate - Customer 1233551188 is leaving and s/he was gold (true). 
+""15:50:39.656 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1457312177 is gold (true) has 2 baskets to empty and is using automate 509925762.
+""15:50:39.657 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1457312177 is emptying his or her basket for 4 seconds.
+""15:50:43.657 [pool-3-thread-4] INFO org.parallel.auf4.Automate - Customer 1457312177 is leaving and s/he was gold (true). 
+""15:50:43.657 [pool-3-thread-3] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 9
+""15:50:43.658 [pool-3-thread-3] INFO org.parallel.auf4.Automate - New Customer 1572407769 has entered and is gold (false). 
+""15:50:43.659 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1572407769 is gold (false) has 3 baskets to empty and is using automate 757239676.
+""15:50:43.659 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1572407769 is emptying his or her basket for 4 seconds.
+""15:50:45.699 [pool-3-thread-2] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 10
+""15:50:45.699 [pool-3-thread-2] INFO org.parallel.auf4.Automate - New Customer 1653580915 has entered and is gold (true). 
+""15:50:45.700 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1653580915 is gold (true) has 3 baskets to empty and is using automate 90556647.
+""15:50:45.700 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1653580915 is emptying his or her basket for 4 seconds.
+""15:50:47.659 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1572407769 is gold (false) has 3 baskets to empty and is using automate 757239676.
+""15:50:47.660 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1572407769 is emptying his or her basket for 5 seconds.
+""15:50:49.701 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1653580915 is gold (true) has 3 baskets to empty and is using automate 90556647.
+""15:50:49.701 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1653580915 is emptying his or her basket for 4 seconds.
+""15:50:50.658 [pool-3-thread-4] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 9
+""15:50:50.659 [pool-3-thread-4] INFO org.parallel.auf4.Automate - New Customer 1850518049 has entered and is gold (false). 
+""15:50:50.659 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1850518049 is gold (false) has 4 baskets to empty and is using automate 509925762.
+""15:50:50.659 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1850518049 is emptying his or her basket for 3 seconds.
+""15:50:52.661 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1572407769 is gold (false) has 3 baskets to empty and is using automate 757239676.
+""15:50:52.662 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1572407769 is emptying his or her basket for 3 seconds.
+""15:50:53.659 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1850518049 is gold (false) has 4 baskets to empty and is using automate 509925762.
+""15:50:53.660 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1850518049 is emptying his or her basket for 5 seconds.
+""15:50:53.702 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1653580915 is gold (true) has 3 baskets to empty and is using automate 90556647.
+""15:50:53.702 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1653580915 is emptying his or her basket for 5 seconds.
+""15:50:55.662 [pool-3-thread-3] INFO org.parallel.auf4.Automate - Customer 1572407769 is leaving and s/he was gold (false). 
+""15:50:58.660 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1850518049 is gold (false) has 4 baskets to empty and is using automate 509925762.
+""15:50:58.661 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1850518049 is emptying his or her basket for 3 seconds.
+""15:50:58.702 [pool-3-thread-2] INFO org.parallel.auf4.Automate - Customer 1653580915 is leaving and s/he was gold (true). 
+""15:51:01.661 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1850518049 is gold (false) has 4 baskets to empty and is using automate 509925762.
+""15:51:01.661 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1850518049 is emptying his or her basket for 5 seconds.
+""15:51:02.663 [pool-3-thread-3] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 11
+""15:51:02.663 [pool-3-thread-3] INFO org.parallel.auf4.Automate - New Customer 471200112 has entered and is gold (true). 
+""15:51:02.663 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 471200112 is gold (true) has 3 baskets to empty and is using automate 757239676.
+""15:51:02.663 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 471200112 is emptying his or her basket for 6 seconds.
+""15:51:05.703 [pool-3-thread-2] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 11
+""15:51:05.703 [pool-3-thread-2] INFO org.parallel.auf4.Automate - New Customer 934851386 has entered and is gold (true). 
+""15:51:05.704 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 934851386 is gold (true) has 2 baskets to empty and is using automate 90556647.
+""15:51:05.704 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 934851386 is emptying his or her basket for 5 seconds.
+""15:51:06.662 [pool-3-thread-4] INFO org.parallel.auf4.Automate - Customer 1850518049 is leaving and s/he was gold (false). 
+""15:51:08.664 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 471200112 is gold (true) has 3 baskets to empty and is using automate 757239676.
+""15:51:08.664 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 471200112 is emptying his or her basket for 3 seconds.
+""15:51:10.704 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 934851386 is gold (true) has 2 baskets to empty and is using automate 90556647.
+""15:51:10.705 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 934851386 is emptying his or her basket for 4 seconds.
+""15:51:11.665 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 471200112 is gold (true) has 3 baskets to empty and is using automate 757239676.
+""15:51:11.665 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 471200112 is emptying his or her basket for 6 seconds.
+""15:51:13.662 [pool-3-thread-4] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 12
+""15:51:13.663 [pool-3-thread-4] INFO org.parallel.auf4.Automate - New Customer 774108816 has entered and is gold (false). 
+""15:51:13.663 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 774108816 is gold (false) has 5 baskets to empty and is using automate 509925762.
+""15:51:13.663 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 774108816 is emptying his or her basket for 6 seconds.
+""15:51:14.705 [pool-3-thread-2] INFO org.parallel.auf4.Automate - Customer 934851386 is leaving and s/he was gold (true). 
+""15:51:17.665 [pool-3-thread-3] INFO org.parallel.auf4.Automate - Customer 471200112 is leaving and s/he was gold (true). 
+""15:51:19.663 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 774108816 is gold (false) has 5 baskets to empty and is using automate 509925762.
+""15:51:19.664 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 774108816 is emptying his or her basket for 4 seconds.
+""15:51:21.706 [pool-3-thread-2] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 13
+""15:51:21.706 [pool-3-thread-2] INFO org.parallel.auf4.Automate - New Customer 886139666 has entered and is gold (true). 
+""15:51:21.707 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 886139666 is gold (true) has 5 baskets to empty and is using automate 90556647.
+""15:51:21.707 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 886139666 is emptying his or her basket for 5 seconds.
+""15:51:23.664 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 774108816 is gold (false) has 5 baskets to empty and is using automate 509925762.
+""15:51:23.665 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 774108816 is emptying his or her basket for 3 seconds.
+""15:51:24.666 [pool-3-thread-3] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 13
+""15:51:24.667 [pool-3-thread-3] INFO org.parallel.auf4.Automate - New Customer 204503560 has entered and is gold (true). 
+""15:51:24.671 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 204503560 is gold (true) has 3 baskets to empty and is using automate 757239676.
+""15:51:24.671 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 204503560 is emptying his or her basket for 6 seconds.
+""15:51:26.665 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 774108816 is gold (false) has 5 baskets to empty and is using automate 509925762.
+""15:51:26.666 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 774108816 is emptying his or her basket for 3 seconds.
+""15:51:26.708 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 886139666 is gold (true) has 5 baskets to empty and is using automate 90556647.
+""15:51:26.708 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 886139666 is emptying his or her basket for 4 seconds.
+""15:51:29.666 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 774108816 is gold (false) has 5 baskets to empty and is using automate 509925762.
+""15:51:29.666 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 774108816 is emptying his or her basket for 4 seconds.
+""15:51:30.672 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 204503560 is gold (true) has 3 baskets to empty and is using automate 757239676.
+""15:51:30.672 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 204503560 is emptying his or her basket for 6 seconds.
+""15:51:30.709 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 886139666 is gold (true) has 5 baskets to empty and is using automate 90556647.
+""15:51:30.709 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 886139666 is emptying his or her basket for 4 seconds.
+""15:51:33.667 [pool-3-thread-4] INFO org.parallel.auf4.Automate - Customer 774108816 is leaving and s/he was gold (false). 
+""15:51:34.710 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 886139666 is gold (true) has 5 baskets to empty and is using automate 90556647.
+""15:51:34.710 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 886139666 is emptying his or her basket for 5 seconds.
+""15:51:36.673 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 204503560 is gold (true) has 3 baskets to empty and is using automate 757239676.
+""15:51:36.673 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 204503560 is emptying his or her basket for 6 seconds.
+""15:51:39.711 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 886139666 is gold (true) has 5 baskets to empty and is using automate 90556647.
+""15:51:39.711 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 886139666 is emptying his or her basket for 4 seconds.
+""15:51:40.667 [pool-3-thread-4] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 15
+""15:51:40.668 [pool-3-thread-4] INFO org.parallel.auf4.Automate - New Customer 1064709366 has entered and is gold (true). 
+""15:51:40.668 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1064709366 is gold (true) has 4 baskets to empty and is using automate 509925762.
+""15:51:40.669 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1064709366 is emptying his or her basket for 3 seconds.
+""15:51:42.674 [pool-3-thread-3] INFO org.parallel.auf4.Automate - Customer 204503560 is leaving and s/he was gold (true). 
+""15:51:43.669 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1064709366 is gold (true) has 4 baskets to empty and is using automate 509925762.
+""15:51:43.670 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1064709366 is emptying his or her basket for 5 seconds.
+""15:51:43.712 [pool-3-thread-2] INFO org.parallel.auf4.Automate - Customer 886139666 is leaving and s/he was gold (true). 
+""15:51:48.670 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1064709366 is gold (true) has 4 baskets to empty and is using automate 509925762.
+""15:51:48.671 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1064709366 is emptying his or her basket for 4 seconds.
+""15:51:49.675 [pool-3-thread-3] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 17
+""15:51:49.675 [pool-3-thread-3] INFO org.parallel.auf4.Automate - New Customer 559813604 has entered and is gold (true). 
+""15:51:49.675 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 559813604 is gold (true) has 3 baskets to empty and is using automate 757239676.
+""15:51:49.675 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 559813604 is emptying his or her basket for 3 seconds.
+""15:51:50.712 [pool-3-thread-2] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 16
+""15:51:50.713 [pool-3-thread-2] INFO org.parallel.auf4.Automate - New Customer 1322769923 has entered and is gold (false). 
+""15:51:50.713 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1322769923 is gold (false) has 5 baskets to empty and is using automate 90556647.
+""15:51:50.713 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1322769923 is emptying his or her basket for 6 seconds.
+""15:51:52.671 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1064709366 is gold (true) has 4 baskets to empty and is using automate 509925762.
+""15:51:52.672 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 1064709366 is emptying his or her basket for 6 seconds.
+""15:51:52.676 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 559813604 is gold (true) has 3 baskets to empty and is using automate 757239676.
+""15:51:52.676 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 559813604 is emptying his or her basket for 4 seconds.
+""15:51:56.677 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 559813604 is gold (true) has 3 baskets to empty and is using automate 757239676.
+""15:51:56.677 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 559813604 is emptying his or her basket for 4 seconds.
+""15:51:56.714 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1322769923 is gold (false) has 5 baskets to empty and is using automate 90556647.
+""15:51:56.714 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1322769923 is emptying his or her basket for 4 seconds.
+""15:51:58.672 [pool-3-thread-4] INFO org.parallel.auf4.Automate - Customer 1064709366 is leaving and s/he was gold (true). 
+""15:52:00.678 [pool-3-thread-3] INFO org.parallel.auf4.Automate - Customer 559813604 is leaving and s/he was gold (true). 
+""15:52:00.714 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1322769923 is gold (false) has 5 baskets to empty and is using automate 90556647.
+""15:52:00.715 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1322769923 is emptying his or her basket for 3 seconds.
+""15:52:03.716 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1322769923 is gold (false) has 5 baskets to empty and is using automate 90556647.
+""15:52:03.716 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1322769923 is emptying his or her basket for 5 seconds.
+""15:52:05.673 [pool-3-thread-4] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 19
+""15:52:05.674 [pool-3-thread-4] INFO org.parallel.auf4.Automate - New Customer 253178864 has entered and is gold (true). 
+""15:52:05.674 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 253178864 is gold (true) has 3 baskets to empty and is using automate 509925762.
+""15:52:05.674 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 253178864 is emptying his or her basket for 5 seconds.
+""15:52:07.678 [pool-3-thread-3] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 18
+""15:52:07.679 [pool-3-thread-3] INFO org.parallel.auf4.Automate - New Customer 876356055 has entered and is gold (true). 
+""15:52:07.679 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 876356055 is gold (true) has 2 baskets to empty and is using automate 757239676.
+""15:52:07.679 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 876356055 is emptying his or her basket for 6 seconds.
+""15:52:08.717 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1322769923 is gold (false) has 5 baskets to empty and is using automate 90556647.
+""15:52:08.717 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1322769923 is emptying his or her basket for 4 seconds.
+""15:52:10.675 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 253178864 is gold (true) has 3 baskets to empty and is using automate 509925762.
+""15:52:10.675 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 253178864 is emptying his or her basket for 6 seconds.
+""15:52:12.718 [pool-3-thread-2] INFO org.parallel.auf4.Automate - Customer 1322769923 is leaving and s/he was gold (false). 
+""15:52:13.680 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 876356055 is gold (true) has 2 baskets to empty and is using automate 757239676.
+""15:52:13.681 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 876356055 is emptying his or her basket for 5 seconds.
+""15:52:16.676 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 253178864 is gold (true) has 3 baskets to empty and is using automate 509925762.
+""15:52:16.677 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 253178864 is emptying his or her basket for 3 seconds.
+""15:52:18.681 [pool-3-thread-3] INFO org.parallel.auf4.Automate - Customer 876356055 is leaving and s/he was gold (true). 
+""15:52:19.677 [pool-3-thread-4] INFO org.parallel.auf4.Automate - Customer 253178864 is leaving and s/he was gold (true). 
+""15:52:19.719 [pool-3-thread-2] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 18
+""15:52:19.719 [pool-3-thread-2] INFO org.parallel.auf4.Automate - New Customer 1365530518 has entered and is gold (true). 
+""15:52:19.719 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1365530518 is gold (true) has 4 baskets to empty and is using automate 90556647.
+""15:52:19.720 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1365530518 is emptying his or her basket for 5 seconds.
+""15:52:24.720 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1365530518 is gold (true) has 4 baskets to empty and is using automate 90556647.
+""15:52:24.720 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1365530518 is emptying his or her basket for 3 seconds.
+""15:52:25.682 [pool-3-thread-3] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 17
+""15:52:25.682 [pool-3-thread-3] INFO org.parallel.auf4.Automate - New Customer 118610001 has entered and is gold (false). 
+""15:52:25.683 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 118610001 is gold (false) has 3 baskets to empty and is using automate 757239676.
+""15:52:25.683 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 118610001 is emptying his or her basket for 6 seconds.
+""15:52:26.678 [pool-3-thread-4] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 16
+""15:52:26.679 [pool-3-thread-4] INFO org.parallel.auf4.Automate - New Customer 75603345 has entered and is gold (false). 
+""15:52:26.679 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 75603345 is gold (false) has 4 baskets to empty and is using automate 509925762.
+""15:52:26.679 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 75603345 is emptying his or her basket for 6 seconds.
+""15:52:27.721 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1365530518 is gold (true) has 4 baskets to empty and is using automate 90556647.
+""15:52:27.722 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1365530518 is emptying his or her basket for 4 seconds.
+""15:52:31.691 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 118610001 is gold (false) has 3 baskets to empty and is using automate 757239676.
+""15:52:31.692 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 118610001 is emptying his or her basket for 4 seconds.
+""15:52:31.722 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1365530518 is gold (true) has 4 baskets to empty and is using automate 90556647.
+""15:52:31.723 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1365530518 is emptying his or her basket for 3 seconds.
+""15:52:32.680 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 75603345 is gold (false) has 4 baskets to empty and is using automate 509925762.
+""15:52:32.681 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 75603345 is emptying his or her basket for 6 seconds.
+""15:52:34.724 [pool-3-thread-2] INFO org.parallel.auf4.Automate - Customer 1365530518 is leaving and s/he was gold (true). 
+""15:52:35.692 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 118610001 is gold (false) has 3 baskets to empty and is using automate 757239676.
+""15:52:35.693 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 118610001 is emptying his or her basket for 6 seconds.
+""15:52:38.681 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 75603345 is gold (false) has 4 baskets to empty and is using automate 509925762.
+""15:52:38.682 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 75603345 is emptying his or her basket for 6 seconds.
+""15:52:41.693 [pool-3-thread-3] INFO org.parallel.auf4.Automate - Customer 118610001 is leaving and s/he was gold (false). 
+""15:52:41.724 [pool-3-thread-2] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 15
+""15:52:41.725 [pool-3-thread-2] INFO org.parallel.auf4.Automate - New Customer 599199715 has entered and is gold (false). 
+""15:52:41.725 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 599199715 is gold (false) has 3 baskets to empty and is using automate 90556647.
+""15:52:41.725 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 599199715 is emptying his or her basket for 3 seconds.
+""15:52:44.682 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 75603345 is gold (false) has 4 baskets to empty and is using automate 509925762.
+""15:52:44.683 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 75603345 is emptying his or her basket for 6 seconds.
+""15:52:44.725 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 599199715 is gold (false) has 3 baskets to empty and is using automate 90556647.
+""15:52:44.726 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 599199715 is emptying his or her basket for 5 seconds.
+""15:52:48.693 [pool-3-thread-3] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 14
+""15:52:48.694 [pool-3-thread-3] INFO org.parallel.auf4.Automate - New Customer 142475905 has entered and is gold (false). 
+""15:52:48.694 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 142475905 is gold (false) has 5 baskets to empty and is using automate 757239676.
+""15:52:48.694 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 142475905 is emptying his or her basket for 3 seconds.
+""15:52:49.726 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 599199715 is gold (false) has 3 baskets to empty and is using automate 90556647.
+""15:52:49.727 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 599199715 is emptying his or her basket for 3 seconds.
+""15:52:50.683 [pool-3-thread-4] INFO org.parallel.auf4.Automate - Customer 75603345 is leaving and s/he was gold (false). 
+""15:52:51.695 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 142475905 is gold (false) has 5 baskets to empty and is using automate 757239676.
+""15:52:51.695 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 142475905 is emptying his or her basket for 6 seconds.
+""15:52:52.727 [pool-3-thread-2] INFO org.parallel.auf4.Automate - Customer 599199715 is leaving and s/he was gold (false). 
+""15:52:57.684 [pool-3-thread-4] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 13
+""15:52:57.684 [pool-3-thread-4] INFO org.parallel.auf4.Automate - New Customer 891780327 has entered and is gold (false). 
+""15:52:57.684 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 891780327 is gold (false) has 3 baskets to empty and is using automate 509925762.
+""15:52:57.685 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 891780327 is emptying his or her basket for 3 seconds.
+""15:52:57.695 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 142475905 is gold (false) has 5 baskets to empty and is using automate 757239676.
+""15:52:57.696 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 142475905 is emptying his or her basket for 5 seconds.
+""15:52:59.728 [pool-3-thread-2] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 12
+""15:52:59.728 [pool-3-thread-2] INFO org.parallel.auf4.Automate - New Customer 469858684 has entered and is gold (false). 
+""15:52:59.729 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 469858684 is gold (false) has 4 baskets to empty and is using automate 90556647.
+""15:52:59.729 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 469858684 is emptying his or her basket for 6 seconds.
+""15:53:00.685 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 891780327 is gold (false) has 3 baskets to empty and is using automate 509925762.
+""15:53:00.686 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 891780327 is emptying his or her basket for 6 seconds.
+""15:53:02.696 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 142475905 is gold (false) has 5 baskets to empty and is using automate 757239676.
+""15:53:02.697 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 142475905 is emptying his or her basket for 6 seconds.
+""15:53:05.729 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 469858684 is gold (false) has 4 baskets to empty and is using automate 90556647.
+""15:53:05.730 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 469858684 is emptying his or her basket for 6 seconds.
+""15:53:06.686 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 891780327 is gold (false) has 3 baskets to empty and is using automate 509925762.
+""15:53:06.687 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 891780327 is emptying his or her basket for 3 seconds.
+""15:53:08.697 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 142475905 is gold (false) has 5 baskets to empty and is using automate 757239676.
+""15:53:08.698 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 142475905 is emptying his or her basket for 5 seconds.
+""15:53:09.687 [pool-3-thread-4] INFO org.parallel.auf4.Automate - Customer 891780327 is leaving and s/he was gold (false). 
+""15:53:11.731 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 469858684 is gold (false) has 4 baskets to empty and is using automate 90556647.
+""15:53:11.731 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 469858684 is emptying his or her basket for 3 seconds.
+""15:53:13.699 [pool-3-thread-3] INFO org.parallel.auf4.Automate - Customer 142475905 is leaving and s/he was gold (false). 
+""15:53:14.732 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 469858684 is gold (false) has 4 baskets to empty and is using automate 90556647.
+""15:53:14.732 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 469858684 is emptying his or her basket for 5 seconds.
+""15:53:16.688 [pool-3-thread-4] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 11
+""15:53:16.689 [pool-3-thread-4] INFO org.parallel.auf4.Automate - New Customer 993589033 has entered and is gold (false). 
+""15:53:16.689 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 993589033 is gold (false) has 2 baskets to empty and is using automate 509925762.
+""15:53:16.689 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 993589033 is emptying his or her basket for 3 seconds.
+""15:53:19.690 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 993589033 is gold (false) has 2 baskets to empty and is using automate 509925762.
+""15:53:19.690 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 993589033 is emptying his or her basket for 3 seconds.
+""15:53:19.732 [pool-3-thread-2] INFO org.parallel.auf4.Automate - Customer 469858684 is leaving and s/he was gold (false). 
+""15:53:20.700 [pool-3-thread-3] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 10
+""15:53:20.700 [pool-3-thread-3] INFO org.parallel.auf4.Automate - New Customer 1500438873 has entered and is gold (false). 
+""15:53:20.700 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1500438873 is gold (false) has 2 baskets to empty and is using automate 757239676.
+""15:53:20.701 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1500438873 is emptying his or her basket for 6 seconds.
+""15:53:22.691 [pool-3-thread-4] INFO org.parallel.auf4.Automate - Customer 993589033 is leaving and s/he was gold (false). 
+""15:53:26.701 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1500438873 is gold (false) has 2 baskets to empty and is using automate 757239676.
+""15:53:26.702 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 1500438873 is emptying his or her basket for 4 seconds.
+""15:53:26.733 [pool-3-thread-2] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 9
+""15:53:26.733 [pool-3-thread-2] INFO org.parallel.auf4.Automate - New Customer 1817615161 has entered and is gold (false). 
+""15:53:26.734 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1817615161 is gold (false) has 3 baskets to empty and is using automate 90556647.
+""15:53:26.734 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1817615161 is emptying his or her basket for 3 seconds.
+""15:53:29.692 [pool-3-thread-4] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 8
+""15:53:29.692 [pool-3-thread-4] INFO org.parallel.auf4.Automate - New Customer 226937613 has entered and is gold (false). 
+""15:53:29.692 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 226937613 is gold (false) has 5 baskets to empty and is using automate 509925762.
+""15:53:29.693 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 226937613 is emptying his or her basket for 6 seconds.
+""15:53:29.734 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1817615161 is gold (false) has 3 baskets to empty and is using automate 90556647.
+""15:53:29.735 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1817615161 is emptying his or her basket for 4 seconds.
+""15:53:30.702 [pool-3-thread-3] INFO org.parallel.auf4.Automate - Customer 1500438873 is leaving and s/he was gold (false). 
+""15:53:33.736 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1817615161 is gold (false) has 3 baskets to empty and is using automate 90556647.
+""15:53:33.736 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 1817615161 is emptying his or her basket for 6 seconds.
+""15:53:35.693 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 226937613 is gold (false) has 5 baskets to empty and is using automate 509925762.
+""15:53:35.694 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 226937613 is emptying his or her basket for 3 seconds.
+""15:53:37.703 [pool-3-thread-3] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 7
+""15:53:37.703 [pool-3-thread-3] INFO org.parallel.auf4.Automate - New Customer 201933114 has entered and is gold (false). 
+""15:53:37.704 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 201933114 is gold (false) has 5 baskets to empty and is using automate 757239676.
+""15:53:37.704 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 201933114 is emptying his or her basket for 3 seconds.
+""15:53:38.694 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 226937613 is gold (false) has 5 baskets to empty and is using automate 509925762.
+""15:53:38.695 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 226937613 is emptying his or her basket for 5 seconds.
+""15:53:39.737 [pool-3-thread-2] INFO org.parallel.auf4.Automate - Customer 1817615161 is leaving and s/he was gold (false). 
+""15:53:40.705 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 201933114 is gold (false) has 5 baskets to empty and is using automate 757239676.
+""15:53:40.706 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 201933114 is emptying his or her basket for 6 seconds.
+""15:53:43.695 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 226937613 is gold (false) has 5 baskets to empty and is using automate 509925762.
+""15:53:43.696 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 226937613 is emptying his or her basket for 4 seconds.
+""15:53:46.707 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 201933114 is gold (false) has 5 baskets to empty and is using automate 757239676.
+""15:53:46.707 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 201933114 is emptying his or her basket for 3 seconds.
+""15:53:46.737 [pool-3-thread-2] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 6
+""15:53:46.738 [pool-3-thread-2] INFO org.parallel.auf4.Automate - New Customer 528329154 has entered and is gold (false). 
+""15:53:46.738 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 528329154 is gold (false) has 5 baskets to empty and is using automate 90556647.
+""15:53:46.738 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 528329154 is emptying his or her basket for 3 seconds.
+""15:53:47.696 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 226937613 is gold (false) has 5 baskets to empty and is using automate 509925762.
+""15:53:47.696 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 226937613 is emptying his or her basket for 5 seconds.
+""15:53:49.708 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 201933114 is gold (false) has 5 baskets to empty and is using automate 757239676.
+""15:53:49.708 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 201933114 is emptying his or her basket for 4 seconds.
+""15:53:49.739 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 528329154 is gold (false) has 5 baskets to empty and is using automate 90556647.
+""15:53:49.740 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 528329154 is emptying his or her basket for 3 seconds.
+""15:53:52.697 [pool-3-thread-4] INFO org.parallel.auf4.Automate - Customer 226937613 is leaving and s/he was gold (false). 
+""15:53:52.740 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 528329154 is gold (false) has 5 baskets to empty and is using automate 90556647.
+""15:53:52.741 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 528329154 is emptying his or her basket for 5 seconds.
+""15:53:53.709 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 201933114 is gold (false) has 5 baskets to empty and is using automate 757239676.
+""15:53:53.710 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 201933114 is emptying his or her basket for 3 seconds.
+""15:53:56.710 [pool-3-thread-3] INFO org.parallel.auf4.Automate - Customer 201933114 is leaving and s/he was gold (false). 
+""15:53:57.741 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 528329154 is gold (false) has 5 baskets to empty and is using automate 90556647.
+""15:53:57.742 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 528329154 is emptying his or her basket for 3 seconds.
+""15:53:59.697 [pool-3-thread-4] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 5
+""15:53:59.698 [pool-3-thread-4] INFO org.parallel.auf4.Automate - New Customer 98808377 has entered and is gold (false). 
+""15:53:59.698 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 98808377 is gold (false) has 3 baskets to empty and is using automate 509925762.
+""15:53:59.698 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 98808377 is emptying his or her basket for 3 seconds.
+""15:54:00.742 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 528329154 is gold (false) has 5 baskets to empty and is using automate 90556647.
+""15:54:00.743 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 528329154 is emptying his or her basket for 6 seconds.
+""15:54:02.699 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 98808377 is gold (false) has 3 baskets to empty and is using automate 509925762.
+""15:54:02.700 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 98808377 is emptying his or her basket for 6 seconds.
+""15:54:03.711 [pool-3-thread-3] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 4
+""15:54:03.711 [pool-3-thread-3] INFO org.parallel.auf4.Automate - New Customer 89375674 has entered and is gold (false). 
+""15:54:03.711 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 89375674 is gold (false) has 4 baskets to empty and is using automate 757239676.
+""15:54:03.712 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 89375674 is emptying his or her basket for 6 seconds.
+""15:54:06.743 [pool-3-thread-2] INFO org.parallel.auf4.Automate - Customer 528329154 is leaving and s/he was gold (false). 
+""15:54:08.700 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 98808377 is gold (false) has 3 baskets to empty and is using automate 509925762.
+""15:54:08.701 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 98808377 is emptying his or her basket for 3 seconds.
+""15:54:09.712 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 89375674 is gold (false) has 4 baskets to empty and is using automate 757239676.
+""15:54:09.712 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 89375674 is emptying his or her basket for 6 seconds.
+""15:54:11.701 [pool-3-thread-4] INFO org.parallel.auf4.Automate - Customer 98808377 is leaving and s/he was gold (false). 
+""15:54:13.744 [pool-3-thread-2] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 3
+""15:54:13.744 [pool-3-thread-2] INFO org.parallel.auf4.Automate - New Customer 70149593 has entered and is gold (false). 
+""15:54:13.744 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 70149593 is gold (false) has 3 baskets to empty and is using automate 90556647.
+""15:54:13.745 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 70149593 is emptying his or her basket for 3 seconds.
+""15:54:15.713 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 89375674 is gold (false) has 4 baskets to empty and is using automate 757239676.
+""15:54:15.713 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 89375674 is emptying his or her basket for 6 seconds.
+""15:54:16.745 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 70149593 is gold (false) has 3 baskets to empty and is using automate 90556647.
+""15:54:16.745 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 70149593 is emptying his or her basket for 5 seconds.
+""15:54:18.702 [pool-3-thread-4] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 2
+""15:54:18.703 [pool-3-thread-4] INFO org.parallel.auf4.Automate - New Customer 187512358 has entered and is gold (false). 
+""15:54:18.703 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 187512358 is gold (false) has 2 baskets to empty and is using automate 509925762.
+""15:54:18.703 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 187512358 is emptying his or her basket for 5 seconds.
+""15:54:21.714 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 89375674 is gold (false) has 4 baskets to empty and is using automate 757239676.
+""15:54:21.714 [pool-3-thread-3] INFO org.parallel.auf4.Customer - Customer 89375674 is emptying his or her basket for 5 seconds.
+""15:54:21.746 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 70149593 is gold (false) has 3 baskets to empty and is using automate 90556647.
+""15:54:21.746 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 70149593 is emptying his or her basket for 4 seconds.
+""15:54:23.704 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 187512358 is gold (false) has 2 baskets to empty and is using automate 509925762.
+""15:54:23.704 [pool-3-thread-4] INFO org.parallel.auf4.Customer - Customer 187512358 is emptying his or her basket for 6 seconds.
+""15:54:25.747 [pool-3-thread-2] INFO org.parallel.auf4.Automate - Customer 70149593 is leaving and s/he was gold (false). 
+""15:54:26.715 [pool-3-thread-3] INFO org.parallel.auf4.Automate - Customer 89375674 is leaving and s/he was gold (false). 
+""15:54:29.704 [pool-3-thread-4] INFO org.parallel.auf4.Automate - Customer 187512358 is leaving and s/he was gold (false). 
+""15:54:32.747 [pool-3-thread-2] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 1
+""15:54:32.748 [pool-3-thread-2] INFO org.parallel.auf4.Automate - New Customer 334706361 has entered and is gold (false). 
+""15:54:32.748 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 334706361 is gold (false) has 4 baskets to empty and is using automate 90556647.
+""15:54:32.748 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 334706361 is emptying his or her basket for 6 seconds.
+""15:54:33.715 [pool-3-thread-3] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 0
+""15:54:36.705 [pool-3-thread-4] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 0
+""15:54:38.749 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 334706361 is gold (false) has 4 baskets to empty and is using automate 90556647.
+""15:54:38.749 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 334706361 is emptying his or her basket for 5 seconds.
+""15:54:43.749 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 334706361 is gold (false) has 4 baskets to empty and is using automate 90556647.
+""15:54:43.750 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 334706361 is emptying his or her basket for 4 seconds.
+""15:54:47.750 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 334706361 is gold (false) has 4 baskets to empty and is using automate 90556647.
+""15:54:47.751 [pool-3-thread-2] INFO org.parallel.auf4.Customer - Customer 334706361 is emptying his or her basket for 6 seconds.
+""15:54:53.751 [pool-3-thread-2] INFO org.parallel.auf4.Automate - Customer 334706361 is leaving and s/he was gold (false). 
+""15:55:00.752 [pool-3-thread-2] INFO org.parallel.auf4.FIFOQueue - Customer still queueing 0
+""15:56:14.635 [main] INFO org.parallel.auf4.Supermarket - --------------------------- Final time: 420.1604919433594 s. --------------------------- 
+"
