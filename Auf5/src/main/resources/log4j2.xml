@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <Configuration>
+    <Appenders>
+        <File name="file" fileName=".log4j/auf5.log">
+            <PatternLayout>
+                <Pattern>"%d{HH:mm:ss.SSS} [%t] %level %logger - %msg%n"</Pattern>
+            </PatternLayout>
+        </File>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %level %logger - %msg%n"/>
+        </Console>
+    </Appenders>
+
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="file"/>
+        </Root>
+    </Loggers>
+</Configuration>
