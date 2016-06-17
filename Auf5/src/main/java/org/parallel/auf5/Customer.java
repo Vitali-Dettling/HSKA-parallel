@@ -1,56 +1,32 @@
 package org.parallel.auf5;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import java.util.concurrent.Callable;
+import java.util.concurrent.Semaphore;
 
 /**
  * Created by vitali on 4/5/16.
  */
-public class Customer implements Comparable<Customer> {
+public class Customer implements Callable {
 
-    private static final Logger logger = LogManager.getLogger(Customer.class);
+    private Barbershop shop;
+    private Semaphore hairCut;
 
-    private int baskets;
-    private boolean goldCustomer;
-
-    public Customer(boolean isGoldCustomer){
-        final int MIN_BASKETS = 2;
-        final int MAX_BASKETS = 5;
-        this.goldCustomer = isGoldCustomer;
-
-        this.baskets = Util.getRandomInt(MIN_BASKETS, MAX_BASKETS);
-    }
-
-    public boolean isGoldCustomer(){
-        return this.goldCustomer;
-    }
-
-    public void customersDuty(Automate automate){
-        final int SEC = 1000;
-        final int MIN_EMPTY_TIME = 3;
-        final int MAX_EMPTY_TIME = 6;
-
-        for(int i = 0 ; i < this.baskets ; i++){
-            try {
-                if (automate == null) {throw  new Exception();}
-                logger.info("Customer {} is gold ({}) has {} baskets to empty and is using automate {}.", this.hashCode(), this.isGoldCustomer(), baskets, automate.hashCode());
-
-                int toEmptyBasket = Util.getRandomInt(MIN_EMPTY_TIME, MAX_EMPTY_TIME);
-                logger.info("Customer {} is emptying his or her basket for {} seconds.", this.hashCode(), toEmptyBasket);
-                Thread.sleep(toEmptyBasket * SEC);
-            } catch (Exception e) {
-                logger.error("Customer {} has a problem with the machine." , this.hashCode());
-            }
-        }
+    public Customer(Barbershop shop, Semaphore hairCut){
+        this.shop = shop;
+        this.hairCut = hairCut;
     }
 
     @Override
-    public int compareTo(Customer referenceCustomer) {
+    public Object call() throws InterruptedException {
 
-        //Compares the right order in the FIFOQueue
-        if(referenceCustomer.isGoldCustomer()){
-            return 1;
+        while(true) {
+
+            if (this.shop.enterShop(this.hashCode())) {
+                this.shop.sitOnSofa(this);
+                    this.hairCut.acquire();
+                    this.shop.pay(this.hashCode());
+            }
+            Thread.sleep(Util.getRandomInt(10, 20) * Util.seconds);
         }
-        return -1;
     }
 }
